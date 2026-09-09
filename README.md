@@ -34,3 +34,7 @@ It helps users manage their daily tasks through a menu-driven interface.
 This project was developed as part of a Software Development Internship
 to practice requirement analysis, Python application development,
 and Git version control.
+
+## GitHub Repository
+
+https://github.com/DharmendraAI/Task_Manager
